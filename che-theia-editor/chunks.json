@@ -1,0 +1,13 @@
+[
+  {
+    "chunk": "runtime.2a0331f68276675b6b4d.js"
+  },
+  {
+    "chunk": "vendors.0c1d00bd4f02b9999e6d.js",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@master/che-theia-editor/vendors.0c1d00bd4f02b9999e6d.js"
+  },
+  {
+    "chunk": "main.3f9f8f98a10f0d04db9a.js",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@master/che-theia-editor/main.3f9f8f98a10f0d04db9a.js"
+  }
+]
