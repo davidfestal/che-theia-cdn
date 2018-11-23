@@ -1,0 +1,30 @@
+[
+  {
+    "chunk": "vendors.da35d8e6d110c66de86c.js",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/example-browser/vendors.da35d8e6d110c66de86c.js"
+  },
+  {
+    "chunk": "main.f3ec5d5d67ac090710c3.js",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/example-browser/main.f3ec5d5d67ac090710c3.js"
+  },
+  {
+    "external": "vs/editor/editor.main.js",
+    "cdn": "https://cdn.jsdelivr.net/npm/@typefox/monaco-editor-core@0.14.6/min/vs/editor/editor.main.js"
+  },
+  {
+    "external": "vs/editor/editor.main.css",
+    "cdn": "https://cdn.jsdelivr.net/npm/@typefox/monaco-editor-core@0.14.6/min/vs/editor/editor.main.css"
+  },
+  {
+    "external": "vs/editor/editor.main.nls.js",
+    "cdn": "https://cdn.jsdelivr.net/npm/@typefox/monaco-editor-core@0.14.6/min/vs/editor/editor.main.nls.js"
+  },
+  {
+    "external": "./vs/original-loader.js",
+    "cdn": "https://cdn.jsdelivr.net/npm/@typefox/monaco-editor-core@0.14.6/min/vs/loader.js"
+  },
+  {
+    "resource": "f8f821a66b20e5801e35df5ec4565b30.wasm",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/example-browser/f8f821a66b20e5801e35df5ec4565b30.wasm"
+  }
+]
