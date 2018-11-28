@@ -1,11 +1,11 @@
 [
   {
-    "chunk": "vendors.193bfa9b48e906f96d78.js",
-    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/vendors.193bfa9b48e906f96d78.js"
+    "chunk": "vendors.d13e6dd3f99051c52cd9.js",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/vendors.d13e6dd3f99051c52cd9.js"
   },
   {
-    "chunk": "main.30e31b7f5f52f5b0b935.js",
-    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/main.30e31b7f5f52f5b0b935.js"
+    "chunk": "main.2f60315c8d42f1979f58.js",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/main.2f60315c8d42f1979f58.js"
   },
   {
     "external": "vs/editor/editor.main.js",
