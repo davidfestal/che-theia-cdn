@@ -1,15 +1,15 @@
 [
   {
-    "chunk": "che.563f562de4883f15acea.js",
-    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/che.563f562de4883f15acea.js"
+    "chunk": "che.5cb89c1b82b607c7243b.js",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/che.5cb89c1b82b607c7243b.js"
   },
   {
-    "chunk": "vendors.e72464b07594c045c3c0.js",
-    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/vendors.e72464b07594c045c3c0.js"
+    "chunk": "vendors.8123dfc14d5ef6287781.js",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/vendors.8123dfc14d5ef6287781.js"
   },
   {
-    "chunk": "theia.1d02551a5fc7c93a2d27.js",
-    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/theia.1d02551a5fc7c93a2d27.js"
+    "chunk": "theia.4965c2aed142e4bcecc4.js",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/theia.4965c2aed142e4bcecc4.js"
   },
   {
     "external": "vs/editor/editor.main.js",
@@ -25,15 +25,15 @@
   },
   {
     "external": "vs/language/html/monaco.contribution.js",
-    "cdn": "https://cdn.jsdelivr.net/npm/monaco-html@2.3.0/release/min/monaco.contribution.js"
+    "cdn": "https://cdn.jsdelivr.net/npm/monaco-html@2.2.0/release/min/monaco.contribution.js"
   },
   {
     "external": "vs/language/css/monaco.contribution.js",
-    "cdn": "https://cdn.jsdelivr.net/npm/monaco-css@2.3.0/release/min/monaco.contribution.js"
+    "cdn": "https://cdn.jsdelivr.net/npm/monaco-css@2.2.0/release/min/monaco.contribution.js"
   },
   {
     "external": "./vs/original-loader.js",
-    "cdn": "https://cdn.jsdelivr.net/npm/@typefox/monaco-editor-core@0.14.6/dev/vs/loader.js"
+    "cdn": "https://cdn.jsdelivr.net/npm/@typefox/monaco-editor-core@0.14.6/min/vs/loader.js"
   },
   {
     "resource": "0a32a80243e05284a5d741c5dc093f31.woff2",
@@ -44,23 +44,23 @@
     "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/af7ae505a9eed503f8b8e6982036873e.woff2"
   },
   {
-    "resource": "e19892df121e7f85c61754c54bbb7951.woff2",
-    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/e19892df121e7f85c61754c54bbb7951.woff2"
+    "resource": "_/_/packages/core/src/browser/icons/spinner.e817279537a0417d042f62fbb1b99eea.gif",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/_/_/packages/core/src/browser/icons/spinner.e817279537a0417d042f62fbb1b99eea.gif"
   },
   {
-    "resource": "f8f821a66b20e5801e35df5ec4565b30.wasm",
-    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/f8f821a66b20e5801e35df5ec4565b30.wasm"
-  },
-  {
-    "resource": "node_modules/@theia/core/src/browser/icons/spinner.e817279537a0417d042f62fbb1b99eea.gif",
-    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/node_modules/@theia/core/src/browser/icons/spinner.e817279537a0417d042f62fbb1b99eea.gif"
+    "resource": "11d1a2390613abf202bfd2ebbd5c4500.woff2",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/11d1a2390613abf202bfd2ebbd5c4500.woff2"
   },
   {
     "resource": "de59a97248b44599e6747a27a943f738.woff2",
     "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/de59a97248b44599e6747a27a943f738.woff2"
   },
   {
-    "resource": "11d1a2390613abf202bfd2ebbd5c4500.woff2",
-    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/11d1a2390613abf202bfd2ebbd5c4500.woff2"
+    "resource": "e19892df121e7f85c61754c54bbb7951.woff2",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/e19892df121e7f85c61754c54bbb7951.woff2"
+  },
+  {
+    "resource": "f8f821a66b20e5801e35df5ec4565b30.wasm",
+    "cdn": "https://cdn.jsdelivr.net/gh/davidfestal/che-theia-cdn@latest/che-theia-editor/f8f821a66b20e5801e35df5ec4565b30.wasm"
   }
 ]
