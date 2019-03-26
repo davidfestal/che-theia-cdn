@@ -12,7 +12,6 @@ firstPublicationDate: 2019-02-20
 extensions:
   - https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/0.3.0/vspackage
   - https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/0.38.0/vspackage
-  - vscode:extension/redhat.vscode-xml
 attributes:
   containerImage: eclipse/che-remote-plugin-runner-java8:nightly
   
